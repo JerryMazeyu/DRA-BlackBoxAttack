@@ -1,0 +1,4 @@
+__pycache__
+imagenet-10
+exp/*
+!exp/densenet121
